@@ -1,4 +1,5 @@
 FROM ubuntu:14.04
+#Change made for Docker Class
 MAINTAINER Docker Education Team <education@docker.com>
 
 RUN apt-get update
